@@ -6,7 +6,7 @@ img {
 .main {
   margin-right: 30pt plus 10pt minus 10 pt;
   text-align: justify;
-  color: blue;
+  color:#677985;
   margin: -10px;
 }
 
@@ -15,8 +15,33 @@ img {
 }
 
 .div1 {
-  border: 3px solid rgb(37, 31, 31);
-  float: center;
+  margin: 2px;
+  border: 3px solid rgb(182, 180, 180);
   padding: 6px;
-  
-  }
+}
+
+.jumbotron {
+  font-family: monospace; 
+  font-style: oblique;
+  color: #2F4858;
+}
+
+.class1 {
+  color: #415867;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.intro {
+  color: #33658A;
+  font-family: sans-serif;
+  font-style: oblique;
+}
+
+.panel-title {
+  color: rgb(112, 157, 187);
+}
+
+body {
+  background-color: rgba(245, 246, 248, 0.856);
+}
