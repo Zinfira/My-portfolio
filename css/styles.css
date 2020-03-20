@@ -13,3 +13,10 @@ img {
 .highlight {
   font-style: italic;
 }
+
+.div1 {
+  border: 3px solid rgb(37, 31, 31);
+  float: center;
+  padding: 6px;
+  
+  }
