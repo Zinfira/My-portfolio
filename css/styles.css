@@ -1,4 +1,12 @@
 img {
   float: left;
-  size: height="100" width="100";
+  margin: 20px;
+}
+
+.main {
+  margin-right: 30pt plus 10pt minus 10 pt;
+  text-align: justify;
+  color: blue;
+  border-left-width: 10px;
+  margin: -10px;
 }
