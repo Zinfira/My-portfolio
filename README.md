@@ -6,7 +6,7 @@
 
 ## Description
 
-The goal of this project is to build recreate the look of a Wikipedia page using Bootstrap elements. All about looks and formatting, not content, so don't follow our links ;)
+The goal of this project is to build a portfolio landing page by using HTML and CSS, Bootstrap
 
 ## Setup/Installation Requirements
 
@@ -15,8 +15,16 @@ The goal of this project is to build recreate the look of a Wikipedia page using
 * Create index.html.
 * Create CSS folder in "Portfolio" folder,and add there file styles.css and copy bootstrap.css.
 * Create README.md in "Portfolio" folder.
+* Create "img" folder.
 * Go to GitHub and create a repository "My-portfolio""
-* 
+* Determine SSH clone url.
+* Add remote.
+* Start to code.
+* Add title, headers, paragraphs, ordered list, inordered list, list item, image.
+* Use CSS styles and Bootstrap classes.
+* Add branch gh-pages.
+* Take a look at the portfolio at [https://zinfira.github.io/My-portfolio/]
+* Check out GitHub [https://github.com/Zinfira/My-portfolio.git]
 
 
 ## Known Bugs
